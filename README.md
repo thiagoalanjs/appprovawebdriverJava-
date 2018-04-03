@@ -3,7 +3,8 @@
 Automation created for the QA Engineer test - SOMOS Education
 
 ## First step
-- install the Java 9.0.4
+- Java SDK 1.8- http://www.oracle.com/technetwork/pt/java/javase/downloads/jdk8-downloads-2133151.html
+- install the Java 9.0.4 
 
 ## Second step
 
