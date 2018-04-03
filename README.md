@@ -12,7 +12,7 @@ Automation created for the QA Engineer test - SOMOS Education
 ## Third step
 - Change the value of the variable "CaminhoEvidencia" to the path of your computer to the following files:
 
-*Plese do it in All files are in "appprovawebdriverJava-\src\test\java\pages"*
+*Please do it in All files are in "appprovawebdriverJava-\src\test\java\pages"*
 
 "ElementoAcessaLogin",
 "ElementoIniciaSimulado",
