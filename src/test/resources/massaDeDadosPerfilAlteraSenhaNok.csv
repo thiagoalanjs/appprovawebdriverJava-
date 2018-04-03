@@ -1,0 +1,8 @@
+alteraDadosPessoaisAlteracaoSenhaNok,email,senha,senhaAtual,novaSenha,confimaNovaSenha,mensagemErro
+                                    ,"tester-jorge@appprova.com.br","@jorge123","@senhaerrada123","@123jorge","@123jorge","Não foi possível salvar usuário: Senha atual não é válido"                                                        ####[TCR3-004] Validar preenchimento alteração de senha atual errada
+                                    ,"tester-jorge@appprova.com.br","@jorge123","","@123jorge","@123jorge","Não foi possível salvar usuário: Senha atual não pode ficar em branco"                                                           ####[TCR3-005] Validar preenchimento alteração de senha atual vazia
+                                    ,"tester-jorge@appprova.com.br","@jorge123","@jorge123","","@123jorge","Não foi possível salvar usuário: Senha não pode ficar em branco e Confirmação da senha não está de acordo com a nova senha"      ####[TCR3-006] Validar preenchimento alteração de nova senha vazia
+                                    ,"tester-jorge@appprova.com.br","@jorge123","@jorge123","123jorge","@ConfirmeSenhaerrada111","Não foi possível salvar usuário: Confirmação da senha não está de acordo com a nova senha"                 ####[TCR3-007] Validar preenchimento Confirme nova senha errada
+                                    ,"tester-jorge@appprova.com.br","@jorge123","@jorge123","123","123","Não foi possível salvar usuário: Senha deve ter no mínimo 6 caracteres"                                                             ####[TCR3-008] Validar preenchimento da Senha com menos de 6 caracteres
+
+

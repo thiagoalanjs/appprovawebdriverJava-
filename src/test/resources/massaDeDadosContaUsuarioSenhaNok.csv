@@ -1,0 +1,3 @@
+criarContaUsuarioEmailNokTest,nome, email,senha,confirmeSenha,mensagem
+                            ,"Ayton Senna da Silva","tester-ayrton@teste.com","","","não pode ficar em branco" # Massa para o teste [TCR1-005] - Validar senha vazio
+                            ,"Nelson Piquet","tester-nelson@teste.com","123","123","deve ter no mínimo 6 caracteres" # Massa para o teste [TCR1-006] - Validar senha menos de 6 caracteres

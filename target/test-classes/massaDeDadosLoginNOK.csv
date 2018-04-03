@@ -1,0 +1,5 @@
+testAcessaLoginEmailSenhaNok,email,senha,mensagem,Duration(ms),Duration(ms),Duration(ms),Duration(ms)
+"",Teste@teste.com,123456,Email ou senha inválidos.,3614.0,3614.0,3614.0,3614.0
+"",tester-jorge@appprova.com.br,abc123345,Email ou senha inválidos.,4509.0,4509.0,4509.0,4509.0
+"",Teste@teste.com,@jorge123,Email ou senha inválidos.,3097.0,3097.0,3097.0,3097.0
+"",,,Email ou senha inválidos.,3064.0,3064.0,3064.0,3064.0

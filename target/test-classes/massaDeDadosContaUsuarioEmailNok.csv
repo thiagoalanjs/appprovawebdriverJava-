@@ -1,0 +1,3 @@
+criarContaUsuarioEmailNokTest,nome,email,senha,confirmeSenha,mensagem,Duration(ms),Duration(ms)
+"",Ayton Senna da Silva,email_nok@teste,@123456,@123456,com formato inválido,3896.0,3896.0
+"",Nelson Piquet,,@123456,@123456,não pode ficar em branco,3157.0,3157.0

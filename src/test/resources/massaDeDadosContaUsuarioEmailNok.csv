@@ -1,0 +1,4 @@
+criarContaUsuarioEmailNokTest,nome, email,senha,confirmeSenha,mensagem
+                            ,"Ayton Senna da Silva","email_nok@teste","@123456","@123456","com formato inválido" # Massa para o caso de teste [TCR1-003]
+                            ,"Nelson Piquet","","@123456","@123456","não pode ficar em branco" # Massa para o caso de teste [TCR1-004]
+

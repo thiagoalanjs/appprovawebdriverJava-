@@ -1,0 +1,6 @@
+alteraDadosPessoaisAlteracaoSenhaNok,email,senha,senhaAtual,novaSenha,confimaNovaSenha,mensagemErro,Duration(ms),Duration(ms)
+"",tester-jorge@appprova.com.br,@jorge123,@senhaerrada123,@123jorge,@123jorge,Não foi possível salvar usuário: Senha atual não é válido,15343.0,15343.0
+"",tester-jorge@appprova.com.br,@jorge123,,@123jorge,@123jorge,Não foi possível salvar usuário: Senha atual não pode ficar em branco,10641.0,10641.0
+"",tester-jorge@appprova.com.br,@jorge123,@jorge123,,@123jorge,Não foi possível salvar usuário: Senha não pode ficar em branco e Confirmação da senha não está de acordo com a nova senha,45145.0,45145.0
+"",tester-jorge@appprova.com.br,@jorge123,@jorge123,123jorge,@ConfirmeSenhaerrada111,Não foi possível salvar usuário: Confirmação da senha não está de acordo com a nova senha,16514.0,16514.0
+"",tester-jorge@appprova.com.br,@jorge123,@jorge123,123,123,Não foi possível salvar usuário: Senha deve ter no mínimo 6 caracteres,10940.0,10940.0

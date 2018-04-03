@@ -1,0 +1,3 @@
+criarContaUsuarioConfirmaSenhaNokTest,nome,email,senha,confirmeSenha,mensagem,Duration(ms)
+"",Ayton Senna da Silva,ayrton@teste.com.br,@123456,tricampeao1234,não está de acordo com a nova senha,4752.0
+"",Nelson Piquet,ayrton@teste.com.br,@123456,,não está de acordo com a nova senha,5399.0

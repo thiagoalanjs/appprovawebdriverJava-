@@ -1,0 +1,2 @@
+criarContaUsuarioNomeNokTest,nome,email,senha,confirmeSenha,mensagem,Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms)
+"",,teste_com_nome_nok@appprova.com.br,@123456,@123456,não pode ficar em branco,6036.0,6036.0,6036.0,6036.0,6036.0,6036.0,6036.0

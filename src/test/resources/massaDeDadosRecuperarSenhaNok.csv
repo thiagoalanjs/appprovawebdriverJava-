@@ -1,0 +1,3 @@
+testAcessaRecuperaSenhaNok, mensagemTitulo, emailCadastrado, mensagemRecuperaSenhaNok
+                         ,"Esqueceu sua senha?","email_nao_cadastrado@appprova.com.br","não encontrado"               ####[TCR2-009] Validar Recuperação de Senha campo Email incorreto                                                                                                        //[TCR2-010] Validar Recuperação de Senha campo Email vazio
+                         ,"Esqueceu sua senha?","","não pode ficar em branco"                                         ####[TCR2-010] Validar Recuperação de Senha campo Email vazio

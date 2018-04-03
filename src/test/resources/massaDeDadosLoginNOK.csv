@@ -1,0 +1,5 @@
+testAcessaLoginEmailSenhaNok,email,senha,mensagem
+               ,"Teste@teste.com", "123456", "Email ou senha inválidos." ##### email (NOK), senha (NOK) #####
+               ,"tester-jorge@appprova.com.br","abc123345", "Email ou senha inválidos." ##### email (OK), senha (NOK) #####
+               ,"Teste@teste.com","@jorge123", "Email ou senha inválidos." ##### email(NOK), senha (OK) #####
+               ,"","","Email ou senha inválidos." ##### email e senha vazios #####

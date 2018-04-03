@@ -1,0 +1,3 @@
+criarContaUsuarioConfirmaSenhaNokTest,nome, email,senha,confirmeSenha,mensagem
+                            ,"Ayton Senna da Silva","ayrton@teste.com.br","@123456","tricampeao1234","não está de acordo com a nova senha"   #### Massa para o caso de teste [TCR1-007]
+                            ,"Nelson Piquet","ayrton@teste.com.br","@123456","","não está de acordo com a nova senha"                        #### Massa para o caso de teste [TCR1-007]
